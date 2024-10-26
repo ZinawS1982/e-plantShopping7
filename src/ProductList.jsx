@@ -312,4 +312,4 @@ const handlePlantsClick = (e) => {
     );
 }
 
-export default ProductList;
+export default ProductList;/*..*/
